@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Netherix.aternos.me",
-    "port": 19025,
-    "version": "1.21.11"
+    "ip": "Netherix.aternos.me:58361",
+    "port": 58361,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
